@@ -1,5 +1,8 @@
 # Local Codex/tooling
 .codex/
+**/.claude/
+**/CLAUDE.md
+**/AGENTS.md
 
 # External integrated systems
 leave-management/
